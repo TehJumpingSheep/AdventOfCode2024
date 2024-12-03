@@ -4,9 +4,6 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/*
- *  Day 1 and day 2 are both converted from python (see root/python) to java, I did not feel like rewriting these, so I used AI
- */
 public class Day3 implements Solution {
 
     public void runPart1(List<String> input) {
