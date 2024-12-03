@@ -20,6 +20,10 @@
 .idea/**/dataSources.local.xml
 .idea/**/sqlDataSources.xml
 .idea/**/dynamic.xml
+.idea/**/vcs.xml
+.idea/**/modules.xml
+.idea/**/misc.xml
+.idea/**/discord.xml
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
 
@@ -75,3 +79,5 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
+
+AdventOfCode2024.iml
